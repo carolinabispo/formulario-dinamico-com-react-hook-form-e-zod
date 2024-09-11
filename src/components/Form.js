@@ -81,7 +81,14 @@ export default function Form() {
       const result = await postUser(data);
 
       if (result.success) {
-        reset();
+        reset(); 
+        setName("");
+        setEmail("");
+        setPassword("");
+        setConfirmPassoword("");
+        setPhone("");
+        setCpf("");
+        setCep("");
         setChecked(false);
         setMessage(result.responseMessage);
         setMessageType("success");
