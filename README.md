@@ -25,11 +25,4 @@ A validação do formulário segue estas regras:
 - city: obrigatório, máximo de 255 caracteres.
 
 ## Exemplo de formulario preenchido
-<img src="./src/assets/img1.png">
-<img src=".src/assets/img2.png">
 
-## Mensagens de erro exibidas caso os campos não passem pela validação
-<img src="./src/">
-
-# Mensagem exibida ao enviar o formulário com sucesso
-<img src="/assets/img3.png">
