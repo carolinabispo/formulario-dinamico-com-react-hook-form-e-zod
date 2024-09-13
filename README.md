@@ -25,15 +25,4 @@ A validação do formulário segue estas regras:
 - city: obrigatório, máximo de 255 caracteres.
 
 ## Exemplo de formulario preenchido
-<img src="./src/assets/1.png">
-<img src="./src/assets/2.png">
 
-## Mensagens de erro exibidas caso os campos não passem pela validação
-<img src="./src/assets/5.png">
-
-# Mensagem exibida ao enviar o formulário com sucesso
-<img src="./src/assets/4.png">
-
-# Tecnologias Utilizadas
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=carolinabispo&repo=formulario-dinamico-com-react-hook-form-e-zod&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/carolinabispo/formulario-dinamico-com-react-hook-form-e-zod)
